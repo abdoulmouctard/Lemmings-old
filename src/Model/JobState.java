@@ -1,0 +1,14 @@
+package Model;
+
+
+public enum JobState 
+{
+	MARCHEUR,
+	BOMBEUR,
+	TUNNELIER,
+	GRIMPEUR,
+	FOURREUR,
+	PARACHUTISTE,
+	BLOQUEUR,
+	CHARPENTIER
+}
